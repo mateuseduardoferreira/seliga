@@ -1,1 +1,23 @@
-
+.corpo{
+    background-color:cadetblue;
+    border: 100px;
+    border-color: blueviolet;
+    border-style: double;
+    color: black;
+}
+.lista-seliga{
+    background-color: aqua;
+    border: 125cqh;
+    border-color: red;
+    border-style: groove;
+    color: white;
+    font-size: 25px;
+}
+#link-seliga{
+    color: beige;
+    font-size: 25px;
+}
+#link-seliga:hover{
+    color: blue;
+    font-size: 30px;
+}
